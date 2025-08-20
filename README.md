@@ -1,4 +1,4 @@
-# image
+# AI ImageGEN
 
 A new Flutter project.
 
